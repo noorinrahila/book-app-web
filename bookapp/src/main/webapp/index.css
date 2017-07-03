@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-image:url(../assests/image/1.jpg);
+	background-repeat:no-repeat;
+	background-size:1390px 700px;
+}
+.text-center{
+	font-size:30px;
+	font-weight:bold;
+	margin-top:40px;
+	color:#115E93;
+}
+h3 {
+	font-size: 24px;
+	text-transform: uppercase;
+	color: #303030;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+form {
+	font-size: 19px;
+	line-height: 1.375em;
+	color: #F0F4EF;
+	font-weight: 400;
+	align:center;
+}
+input {
+	margin-bottom: 50px;
+	font-size: 19px;
+	align: justify;
+}
+.centered-form {
+	margin-top: 160px;
+}
+.centered-form .panel {
+	background: rgba(223, 229, 220,0.3);
+	
+}
+.input-group{
+	align:center;
+}
